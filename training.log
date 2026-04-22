@@ -1,0 +1,33 @@
+2026-04-22 23:12:18,192 [INFO] Starting Multi-Agent Deep Q-Network training over 300 episodes...
+2026-04-22 23:12:22,637 [INFO] Episode 10/300 | Avg Reward: 194.00 | Pwr: 5417.00 | TPut: 3934.17
+2026-04-22 23:12:26,920 [INFO] Episode 20/300 | Avg Reward: -342.00 | Pwr: 4898.00 | TPut: 3878.74
+2026-04-22 23:12:31,121 [INFO] Episode 30/300 | Avg Reward: 190.00 | Pwr: 5718.00 | TPut: 4803.11
+2026-04-22 23:12:35,708 [INFO] Episode 40/300 | Avg Reward: 14.00 | Pwr: 6248.00 | TPut: 6270.27
+2026-04-22 23:12:40,857 [INFO] Episode 50/300 | Avg Reward: 622.00 | Pwr: 4747.00 | TPut: 3463.58
+2026-04-22 23:12:44,623 [INFO] Episode 60/300 | Avg Reward: 666.00 | Pwr: 4871.00 | TPut: 4001.30
+2026-04-22 23:12:48,442 [INFO] Episode 70/300 | Avg Reward: 1251.00 | Pwr: 4157.00 | TPut: 2257.83
+2026-04-22 23:12:52,489 [INFO] Episode 80/300 | Avg Reward: 988.00 | Pwr: 4743.00 | TPut: 4092.95
+2026-04-22 23:12:57,589 [INFO] Episode 90/300 | Avg Reward: 1035.00 | Pwr: 4726.00 | TPut: 3569.24
+2026-04-22 23:13:02,640 [INFO] Episode 100/300 | Avg Reward: 1113.00 | Pwr: 5557.00 | TPut: 4719.73
+2026-04-22 23:13:06,790 [INFO] Episode 110/300 | Avg Reward: 1768.00 | Pwr: 2741.00 | TPut: 1651.92
+2026-04-22 23:13:10,663 [INFO] Episode 120/300 | Avg Reward: 1182.00 | Pwr: 4830.00 | TPut: 3924.50
+2026-04-22 23:13:14,960 [INFO] Episode 130/300 | Avg Reward: 1395.00 | Pwr: 5025.00 | TPut: 4189.38
+2026-04-22 23:13:21,106 [INFO] Episode 140/300 | Avg Reward: 1352.00 | Pwr: 4594.00 | TPut: 3734.21
+2026-04-22 23:13:26,116 [INFO] Episode 150/300 | Avg Reward: 1501.00 | Pwr: 5088.00 | TPut: 4537.49
+2026-04-22 23:13:30,793 [INFO] Episode 160/300 | Avg Reward: 1337.00 | Pwr: 5883.00 | TPut: 5519.00
+2026-04-22 23:13:35,013 [INFO] Episode 170/300 | Avg Reward: 1580.00 | Pwr: 5200.00 | TPut: 4926.33
+2026-04-22 23:13:39,090 [INFO] Episode 180/300 | Avg Reward: 1404.00 | Pwr: 5792.00 | TPut: 5663.94
+2026-04-22 23:13:43,097 [INFO] Episode 190/300 | Avg Reward: 1818.00 | Pwr: 3306.00 | TPut: 2723.35
+2026-04-22 23:13:48,269 [INFO] Episode 200/300 | Avg Reward: 1277.00 | Pwr: 7401.00 | TPut: 7883.42
+2026-04-22 23:13:53,385 [INFO] Episode 210/300 | Avg Reward: 1610.00 | Pwr: 5462.00 | TPut: 5465.86
+2026-04-22 23:13:58,327 [INFO] Episode 220/300 | Avg Reward: 2022.00 | Pwr: 1951.00 | TPut: 939.19
+2026-04-22 23:14:02,416 [INFO] Episode 230/300 | Avg Reward: 1846.00 | Pwr: 4133.00 | TPut: 3674.59
+2026-04-22 23:14:06,706 [INFO] Episode 240/300 | Avg Reward: 1670.00 | Pwr: 5016.00 | TPut: 4631.94
+2026-04-22 23:14:11,046 [INFO] Episode 250/300 | Avg Reward: 1887.00 | Pwr: 3985.00 | TPut: 3552.03
+2026-04-22 23:14:18,911 [INFO] Episode 260/300 | Avg Reward: 2000.00 | Pwr: 3371.00 | TPut: 3076.60
+2026-04-22 23:14:23,563 [INFO] Episode 270/300 | Avg Reward: 2133.00 | Pwr: 2697.00 | TPut: 2370.98
+2026-04-22 23:14:28,832 [INFO] Episode 280/300 | Avg Reward: 1843.00 | Pwr: 4277.00 | TPut: 3996.18
+2026-04-22 23:14:38,361 [INFO] Episode 290/300 | Avg Reward: 1624.00 | Pwr: 5877.00 | TPut: 5972.06
+2026-04-22 23:14:46,071 [INFO] Episode 300/300 | Avg Reward: 1678.00 | Pwr: 5807.00 | TPut: 5914.91
+2026-04-22 23:14:46,071 [INFO] Training complete. Generating advanced metrics...
+2026-04-22 23:14:50,158 [INFO] Metrics saved to advanced_marl_metrics.png.
